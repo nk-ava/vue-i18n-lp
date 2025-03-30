@@ -1,0 +1,12 @@
+{
+  "name": "vue-i18n-lp",
+  "version": "1.0.0",
+  "description": "vue-i8n",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["vue2", "i18n"],
+  "author": "nk-ava",
+  "license": "ISC"
+}
